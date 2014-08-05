@@ -1,4 +1,5 @@
 nsqbin
 ======
 
-A basic repository, which contains a Dockerfile for docker automatic build for the nsq package.
+Centos 7 Dockerfile installing binaries for NSQ (nsq.io) into /usr/local/bin
+
